@@ -1,0 +1,38 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/pages/index.tsx",
+  "dependencies": {
+    "@types/react": "18.0.1",
+    "@types/react-dom": "18.0.0",
+    "next": "12.1.4",
+    "office-ui-fabric-react": "7.185.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-fileupload-progress": "0.5.0",
+    "react-redux": "7.2.8",
+    "react-scripts": "5.0.0",
+    "react-transition-group": "4.4.2",
+    "redux": "4.1.2",
+    "redux-starter-kit": "2.0.0"
+  },
+  "devDendencies": {
+    "@types/react": "18.0.1",
+    "@types/react-dom": "18.0.0",
+    "@types/react-redux": "7.1.23"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
